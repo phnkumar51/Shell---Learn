@@ -2,4 +2,4 @@ Learn
 the
 basics
 of
-shell scripts
+shell scripts.
